@@ -45,3 +45,15 @@ Do not quit it because it is not the same lane.
 By the next session, state in one paragraph:
 
 "Why LeWM is worth mastering even if it does not directly ship Hardseal features this month."
+
+### 2026-05-24 answer draft
+
+"Because it will make me the best in the long run and we are playing the long game."
+
+### Coach assessment
+
+Directionally correct, but not yet precise enough.
+
+The answer names the time horizon, but it does not yet name the mechanism.
+
+The stronger version must explain which capabilities compound and why those capabilities matter independently of this month's product roadmap.
