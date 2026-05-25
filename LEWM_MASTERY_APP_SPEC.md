@@ -472,3 +472,27 @@ The build is acceptable if:
 4. weekly review shows mastery ratio and slippage index;
 5. the UI makes the next required action obvious.
 
+## Moat upgrade
+
+The app should encode the `LEWM_MASTERY_MOAT_STANDARD.md` doctrine directly into product behavior.
+
+The product should not merely track progress. It should prevent false progress.
+
+Add these as first-class concepts:
+
+- claim-to-test mapping;
+- adversarial challenge mode;
+- blocked paper states;
+- derivation gap escalation;
+- reproduction evidence;
+- public artifact checklist;
+- weekly mastery ratio;
+- teach-back without notes.
+
+The key rule:
+
+> Move only as fast as the verification loop can support.
+
+If a session produces no artifact, derivation, code, experiment log, failure log, or drill, the app marks it performative.
+
+If a claim is not derived, tested, reproduced, or defended, the app marks it unowned.
