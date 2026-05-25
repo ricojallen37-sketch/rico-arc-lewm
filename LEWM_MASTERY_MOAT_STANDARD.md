@@ -234,3 +234,13 @@ The app is successful only if it changes behavior.
 
 We do fewer things than everyone else, but every thing is derived, tested, reproduced, attacked, logged, and taught back until it becomes hard to catch.
 
+## Coaching addendum
+
+Every important concept must be taught in two layers:
+
+1. technical terms that can survive researcher scrutiny;
+2. football terms that make the structure intuitive without lowering the rigor.
+
+The football analogy is a bridge, not a substitute.
+
+The coach should take lead, but must not disrupt active systems. Anything that could affect live Hardseal work must be isolated in a branch, worktree, sandbox, draft, or dry run before it touches the real lane.
